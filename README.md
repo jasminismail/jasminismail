@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hello, I'm Jasmin
+<a href="https://www.linkedin.com/in/jasmin-i-3146bb14a/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<!--
-**jasminismail/jasminismail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently pursuing my part-time studies for a Specialist Diploma in Cybersecurity with a profound interest in cybersecurity and a dedication safeguarding the digital world.
 
-Here are some ideas to get you started:
+## Objective
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have obtained a ISC2 Certified in Cybersecurity (CC) 24' which has led me to develop a strong foundation in cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+
+## Skills
+
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+|Analysis and Crafting of Phishing Email Simulation |<a href="https://docs.google.com/document/d/1yXxJdR__A9g8gV35pC5jrvTwtymADIN6AbDY2Lz60i4/edit?usp=drive_link">Crafting a Convincing Phishing Email for Mastercard Job Simulation</a>|
+ Cybersecurity Training Awareness Implementation| <a href="https://docs.google.com/presentation/d/1Lxhe8v2XS1NUHiCKaT6sBxz8hZDivrzT/edit?usp=drive_link&ouid=116159945119704749968&rtpof=true&sd=true">Awareness Training for Mastercard Cybersecurity Job Simulation</a>|
+
+
+## Tools
+
+### Network
+<div>
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+</div>
+
+### Endpoint
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+</div>
+
+### SIEM
+<div>
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+</div>
+
+## Certifications
+<div>
+<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+</div>
+
+## Projects
+- Detection Lab
+- SOC Automation Project
