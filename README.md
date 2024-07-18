@@ -11,8 +11,8 @@ I have obtained a ISC2 Certified in Cybersecurity (CC) 24' which has led me to d
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-|Analysis and Crafting of Phishing Email Simulation |<a href="https://github.com/jasminismail/Mastercard-Cybersecurity-Job-Simulation-on-Forage/edit/main/README.md">Crafting a Convincing Phishing Email for Mastercard Cybersecurity Job Simulation</a>|
- Cybersecurity Training Awareness Implementation|<a href="https://github.com/jasminismail/Mastercard-Cybersecurity-Job-Simulation-on-Forage/edit/main/README.md"> Awareness Training for Mastercard Cybersecurity Job Simulation</a>|
+|Analysis and Crafting of Phishing Email Simulation |<a href="https://github.com/jasminismail/Mastercard-Cybersecurity-Job-Simulation-on-Forage/edit/main/README.md">Mastercard Cybersecurity Job Simulation on Forage</a>|
+ Cybersecurity Training Awareness Implementation|<a href="https://github.com/jasminismail/Mastercard-Cybersecurity-Job-Simulation-on-Forage/edit/main/README.md"> Mastercard Cybersecurity Job Simulation on Forage</a>|
 
 ## Tools
 
@@ -27,4 +27,4 @@ I have obtained a ISC2 Certified in Cybersecurity (CC) 24' which has led me to d
 </div>
 
 ## Projects
-<a href="https://github.com/jasminismail/Mastercard-Cybersecurity-Job-Simulation-on-Forage/edit/main/README.md">
+<a href="https://github.com/jasminismail/Mastercard-Cybersecurity-Job-Simulation-on-Forage/edit/main/README.md"> Mastercard Cybersecurity Job Simulation on Forage</a>
