@@ -22,16 +22,6 @@ I have obtained a ISC2 Certified in Cybersecurity (CC) 24' which has led me to d
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
 </div>
 
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-</div>
-
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-</div>
-
 ## Certifications
 <div>
 <img src="https://img.shields.io/badge/-ISC2%20CC-FF0000?&style=for-the-badge&logo=ISC2&logoColor=white" />
