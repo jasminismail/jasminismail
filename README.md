@@ -1,10 +1,10 @@
 # Hello, I'm Jasmin
 
-I am currently pursuing my part-time studies for a Specialist Diploma in Cybersecurity with a strong interest in cybersecurity and a dedication to safeguarding the digital world.
+I am currently pursuing my studies for a Specialist Diploma in Cybersecurity with a strong interest in cybersecurity and a dedication to safeguarding the digital world.
 
 ## Objective
 
-I have obtained a ISC2 Certified in Cybersecurity (CC) 24' which has led me to develop a strong foundation in cybersecurity, and I am eager to transition into the field of Cybersecurity.
+I have obtained a ISC2 Certified in Cybersecurity (CC) and CompTIA Security+ which has led me to develop a strong foundation in cybersecurity, and I am eager to transition into the field of Cybersecurity.
 
 ## Skills
 
