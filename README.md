@@ -4,7 +4,7 @@ I am currently pursuing my part-time studies for a Specialist Diploma in Cyberse
 
 ## Objective
 
-I have obtained a ISC2 Certified in Cybersecurity (CC) 24' which has led me to develop a strong foundation in cybersecurity, and I am eager to transition into the field of Cybersecurity, specifically as a Cybersecurity Analyst.
+I have obtained a ISC2 Certified in Cybersecurity (CC) 24' which has led me to develop a strong foundation in cybersecurity, and I am eager to transition into the field of Cybersecurity.
 
 ## Skills
 
